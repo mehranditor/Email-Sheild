@@ -39,5 +39,5 @@ The application is built using **Dart and Flutter** for the frontend, and **Pyth
 - **Backend:** Python, Flask  
 
 ---
+![Alt text](relative-or-absolute-image-path-or-URL)
 
-If you want, I can also help you add sections for Installation, Usage, or Contribution guidelines. Would you like me to prepare those too?
